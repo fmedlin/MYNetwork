@@ -1,0 +1,17 @@
+.hg
+.hgignore
+.hgtags
+.DS_Store
+build
+Documentation
+Doxyfile
+uploadDocs
+.svn
+*.pbxuser
+*.perspectivev3
+*.mode1v3
+*.mode2v3
+*.mpkg
+*.framework
+*.orig
+*.pyc
